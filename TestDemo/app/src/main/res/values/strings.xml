@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github_Demo</string>
+    <string name="text_comments">Comments</string>
+    <string name="comment_title">Comment</string>
+    <string name="no_comment_msg">No comments available for this issue</string>
+    <string name="dialog_button_close">Close</string>
+    <string name="sorry_header">Sorry!</string>
+    <string name="generic_failure_desc">Something went wrong. Please try again.</string>
+    <string name="internet_con">Oops! No internet connection found.</string>
+    <string name="retry">Retry</string>
+    <string name="created">Sort by Created</string>
+    <string name="updated">Sort by Updated</string>
+    <string name="comments">Sort by Comments</string>
+</resources>
